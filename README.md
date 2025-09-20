@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software / Cloud / Systems Admin
 -----------------------------------------
 
-Open to Lead Roles, Skilled in JavaScript, Node.js, MongoDB, Docker, Cloud and Security.
+Open to Internship / Part time Roles, Skilled in JavaScript, Node.js, MongoDB, Docker, Cloud and Security.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [ktasie@gmail.com](mailto:ktasie@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
