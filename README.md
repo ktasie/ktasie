@@ -37,9 +37,9 @@ Backend microservices platform designed around independently deployable services
 
 **Tech:** Node.js, TypeScript, Docker, MongoDB, Redis
 
-### [MikroTik Auth Platform](https://github.com/ktasie/mikrotik-auth-platform)
+### [MikroTik Auth Prototype](https://github.com/ktasie/mikrotik-auth-prototype)
 
-Authentication platform integrating with MikroTik routers to support captive portal registration, external user authentication, and centralized login workflows.
+Prototype Node.js integration for MikroTik captive portal registration and external authentication workflows.
 
 ### [NGINX Automation Toolkit](https://github.com/ktasie/nginx-automation)
 
