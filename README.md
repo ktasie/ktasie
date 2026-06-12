@@ -4,16 +4,6 @@ Software & Cloud Engineer focused on backend systems, infrastructure automation,
 
 I build reliable backend tools and cloud infrastructure that simplify operations, reduce manual engineering effort, and improve system reliability.
 
-## What I Work On
-
-- Backend services and REST APIs
-- Infrastructure automation
-- Cloud and platform engineering
-- Linux and NGINX-based systems
-- Dockerized deployments
-- SSL/TLS automation
-- System reliability and operational tooling
-
 ## Core Stack
 
 **Languages:** JavaScript, Node.js, Bash, PHP  
