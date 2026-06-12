@@ -16,7 +16,7 @@ I build reliable backend tools and cloud infrastructure that simplify operations
 
 ## Core Stack
 
-**Languages:** TypeScript, JavaScript, Node.js, Bash, PHP  
+**Languages:** JavaScript, Node.js, Bash, PHP  
 **Backend:** Express.js, REST APIs, JWT, Microservices  
 **Infrastructure:** Linux, Docker, NGINX, SSL/TLS, CI/CD  
 **Cloud:** AWS, DigitalOcean, HCS  
@@ -25,41 +25,40 @@ I build reliable backend tools and cloud infrastructure that simplify operations
 
 ## Featured Projects
 
+### [NGINX Automation Toolkit](https://github.com/ktasie/nginx-automation)
+
+CLI tool that migrated 250+ domains from a legacy Citrix SSL termination platform to NGINX — with automated Let's Encrypt certificate issuance.
+
+**Tech:** Node.js, Bash, Linux, NGINX, Let’s Encrypt
+
 ### [SSL Toolkit](https://github.com/ktasie/ssl-toolkit)
 
 Web-based SSL automation platform for CSR generation, certificate conversion, and private-key validation.
 
-**Tech:** Node.js, TypeScript, Express, Linux, SSL/TLS
+**Tech:** Node.js, Express, Linux, SSL/TLS
 
 ### [Microservice Platform](https://github.com/ktasie/microservices-platform)
 
 Backend microservices platform designed around independently deployable services, RESTful APIs, and containerized infrastructure to support scalable and maintainable system architecture.
 
-**Tech:** Node.js, TypeScript, Docker, MongoDB, Redis
+**Tech:** Node.js, Express.js, Docker, Azure Container Apps, Azure Cosmos DB, Azure Blob Storage, JWT (RS256), Azure DevOps
 
-### [MikroTik Auth Prototype](https://github.com/ktasie/mikrotik-auth-prototype)
+### MikroTik Auth Prototype
 
-Prototype Node.js integration for MikroTik captive portal registration and external authentication workflows.
+Built a Node.js prototype integrating with MikroTik RouterOS APIs to extend default captive portal functionality with custom user registration and email verification workflows. Implemented as an internal lab prototype; full RouterOS credential synchronisation ongoing.
 
-### [NGINX Automation Toolkit](https://github.com/ktasie/nginx-automation)
-
-Prompt-based automation tool for generating NGINX configurations, issuing SSL certificates, and migrating legacy web server configurations.
-
-**Tech:** Node.js, Bash, Linux, NGINX, Let’s Encrypt
+**Tech:** Node.js, Express.js, MongoDB, RouterOS API, SMTP, Pug
 
 ### Enterprise Email Hosting Infrastructure
 
-Enterprise-scale email hosting infrastructure designed for large-volume mailbox provisioning and secure mail delivery.
+Deployed and operate a scalable Modoboa email platform on IaaS infrastructure, currently serving 40,000+ active mailboxes. Work is proprietary and not publicly available.
 
-**Tech:** Linux, Postfix, Dovecot, NGINX, SSL/TLS
+**Tech:** Linux, Postfix, Dovecot, Modoboa, NGINX, SSL/TLS
 
 ## Currently Exploring
-
+- TypeScript
 - Distributed systems
-- Kubernetes
-- AI-assisted software engineering
 - Cloud-native architecture
-- Scalable backend design
 
 ## Engineering Philosophy
 
