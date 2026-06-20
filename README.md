@@ -23,7 +23,7 @@ CLI tool that migrated 250+ domains from a legacy Citrix SSL termination platfor
 
 ### [SSL Toolkit](https://github.com/ktasie/ssl-toolkit)
 
-Web-based SSL automation platform for CSR generation, certificate conversion, and private-key validation.
+A production-deployed web application that wraps complex OpenSSL workflows behind a browser interface. Built for system administrators and infrastructure engineers who need to generate, validate, and convert certificates without manually constructing OpenSSL commands.
 
 **Tech:** Node.js, Express, Linux, SSL/TLS
 
